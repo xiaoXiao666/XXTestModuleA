@@ -1,0 +1,22 @@
+{
+  "name": "XXTestModuleA",
+  "version": "0.1.0",
+  "summary": "A short description of XXTestModuleA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaoXiao666/XXTestModuleA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaoXiao666": "xiaoxiaoforever@126.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaoXiao666/XXTestModuleA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "XXTestModuleA/Classes/**/*"
+}
